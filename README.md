@@ -3,7 +3,7 @@
 - 공식문서
    - [Numpy_api](https://numpy.org/doc/stable/reference/index.html#reference)
 
-   - [Pandas_api](https://pandas.pydata.org/docs/reference/frame.html) [api](https://pandas.pydata.org/docs/reference/index.html)
+   - [Pandas_api](https://pandas.pydata.org/docs/reference/index.html)
 - 문제 풀기
    - [Python 300제](https://wikidocs.net/7014)
    - [Numpy 300제](https://wikidocs.net/125545)
