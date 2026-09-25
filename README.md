@@ -1,5 +1,5 @@
 ﻿- 구글 슬라이드
-  - [데이터분석 구글 슬라이드](https://docs.google.com/presentation/d/172f0fZo2oQFrbZI0d1jorUqpHVXqeeIoWy1RsDZy1o8/edit?usp=sharing) <br><br>
+  - [데이터분석 구글 슬라이드](https://docs.google.com/presentation/d/13JXB9OF36inoWGVFS3-9AOB4mgc-w0h-dLaS5VLfTjI/edit?usp=sharing) <br><br>
 - 공식문서
    - [Numpy api](https://numpy.org/doc/stable/reference/index.html#reference)
    - [Pandas api](https://pandas.pydata.org/docs/reference/index.html) <br><br>   
