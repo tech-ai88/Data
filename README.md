@@ -8,7 +8,8 @@
    - [Pandas 300제](https://wikidocs.net/book/4852) <br><br> 
 - 인공지능제조플랫폼 데이터셋
   - [회원가입필요](https://www.kamp-ai.kr/aidataList)
-  - https://drive.google.com/file/d/1SD8iPLib5soRbacy7SaxNTtviPY4lgSF/view?usp=sharing
+  - [PDF](https://drive.google.com/file/d/1SD8iPLib5soRbacy7SaxNTtviPY4lgSF/view?usp=sharing)
+  - [전체 데이터 셋](https://drive.google.com/drive/folders/1oNuKc4u1COfnUQAuZwp95gh8wMzavLU4?usp=sharing) <br><br>
 - 폐쇄망 Python, Lib 설치
   - https://drive.google.com/file/d/19B6GUjWIL6gcKJASrNYnjeiLjlqqxDzr/view?usp=sharing 
 
