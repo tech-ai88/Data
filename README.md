@@ -12,7 +12,9 @@
     - [PDF](https://drive.google.com/file/d/1SD8iPLib5soRbacy7SaxNTtviPY4lgSF/view?usp=sharing)
     - [전체 데이터 셋](https://drive.google.com/drive/folders/1oNuKc4u1COfnUQAuZwp95gh8wMzavLU4?usp=sharing) <br><br>
 - 폐쇄망 Python, Lib 설치
-  - https://drive.google.com/file/d/19B6GUjWIL6gcKJASrNYnjeiLjlqqxDzr/view?usp=sharing 
+  - https://drive.google.com/file/d/19B6GUjWIL6gcKJASrNYnjeiLjlqqxDzr/view?usp=sharing <br><br><br><br>
+- GIT ID 공유
+  - https://docs.google.com/spreadsheets/d/1xB3FlFIRGah_wCEQib2UazkMLPe6FvId8VuzJLN6Z8E/edit?usp=drive_link 
 
 
 
